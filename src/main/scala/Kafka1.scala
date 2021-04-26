@@ -6,7 +6,7 @@ object Kafka1 {
     val stockSchema =StructType(List(StructField))
 
     val KafkaSourceDF=spark.re
-
+;
   }
 
 }
